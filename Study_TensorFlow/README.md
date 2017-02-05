@@ -2,13 +2,10 @@
 
 ## TensorFlow 실습 코드
 
- 김성훈 교수님의 [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml) 를 들으면서 혼자 실습 한 코드 입니다.<br>
+ 김성훈 교수님의 [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml) <br>
 <br>
 
 ## 개발환경
-
- 우분투 16.04 LTS, 파이선 2.7.x, TensorFlow 0.12.1 cpu only<br>
-[파이썬 3.5버전](https://github.com/iasandcb/Study_TensorFlow)<br>
 <br>
 
 ### 실습목록
